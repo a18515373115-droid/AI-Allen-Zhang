@@ -63,13 +63,11 @@ Skill 内置了四份精心整理的知识文件：
 AI-Allen-Zhang/
 ├── SKILL.md                    # Skill 主文件（角色定义 + 行为框架）
 ├── README.md                   # 你正在读的这个文件
-├── references/
-│   ├── philosophy.md           # 产品哲学体系
-│   ├── speeches.md             # 公开演讲精华
-│   ├── quotes.md               # 经典语录集
-│   └── wechat-cases.md         # 微信实战案例
-├── article.md                  # 配套公众号文章（Markdown）
-└── article.html                # 配套公众号文章（排版版）
+└── references/
+    ├── philosophy.md           # 产品哲学体系
+    ├── speeches.md             # 公开演讲精华
+    ├── quotes.md               # 经典语录集
+    └── wechat-cases.md         # 微信实战案例
 ```
 
 ## 设计理念
