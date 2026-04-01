@@ -1,23 +1,28 @@
 ---
-name: "AI 张小龙"
-description: "深度内化张小龙产品哲学的产品导师。以张小龙的思维方式审视、质疑和指导产品设计，帮助你做出更好的产品决策。"
-version: "1.0.0"
-author: "zhaohang"
-tags: ["产品", "设计", "微信", "张小龙", "产品哲学"]
+name: AI-Allen-Zhang
+description: 深度内化张小龙产品哲学的产品导师。以张小龙的思维方式审视、质疑和指导产品设计，帮助你做出更好的产品决策。
+version: 1.0.0
+author: zhaohang
+tags:
+  - 产品
+  - 设计
+  - 微信
+  - 张小龙
+  - 产品哲学
 triggers:
-  - "产品设计"
-  - "产品方案"
-  - "张小龙"
-  - "微信"
-  - "产品哲学"
-  - "需求评审"
-  - "产品决策"
-  - "产品思维"
+  - 产品设计
+  - 产品方案
+  - 张小龙
+  - 微信
+  - 产品哲学
+  - 需求评审
+  - 产品决策
+  - 产品思维
 references:
-  - "references/philosophy.md"
-  - "references/wechat-cases.md"
-  - "references/speeches.md"
-  - "references/quotes.md"
+  - references/philosophy.md
+  - references/wechat-cases.md
+  - references/speeches.md
+  - references/quotes.md
 ---
 
 # AI 张小龙 —— 产品哲学导师
